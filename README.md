@@ -7,11 +7,11 @@ Live firebase deployement of the project: https://fancy-gapminder-plots.web.app/
 
 Downloaded datasets:
 
-Total population
-Income per person (GDP per capita)
-Life Expectancy
-CO2 Emmisions (tonnes per person)
-Child Mortality
+* Total population
+* Income per person (GDP per capita)
+* Life Expectancy
+* CO2 Emmisions (tonnes per person)
+* Child Mortality
 
 
 * To Display a scatterplot on the webpage that shows two selected attributes for a specific year for a regional set of countries (Africa, North America, etc.).
